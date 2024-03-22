@@ -1,0 +1,15 @@
+{
+    "userdataOne": {
+        "firstName": "kalyani",
+        "lastName": "hadole",
+        "email": "kalyanihadolr12@gmail.com",
+        "message": "i am lerning python"
+    },
+    
+    "userdataTwo": {
+        "firstName": "shweta",
+        "lastName": "gorse",
+        "email": "shwetag12@gmail.com",
+        "message": "i am lerning sql"
+    }
+}
